@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{
+	width:1100px;
+}
+.a{
+	width:200;
+}
+.b{
+	width:600;
+}
+.c{
+	width:200;
+}
